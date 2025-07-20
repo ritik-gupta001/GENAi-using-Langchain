@@ -1,1 +1,1 @@
-# GENAi-using-Langchain
+# GENAi-using-Langchain/models
